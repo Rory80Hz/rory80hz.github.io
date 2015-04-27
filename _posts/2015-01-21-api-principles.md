@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Architect
-excerpt: "What the hell is an architect anyway?"
+title: API Design Principles
+excerpt: "Lets not be heros?"
 modified: 2013-03-01
-tags: [software architecture, architect, noscope]
+tags: [software architecture, architect, api design, principles, do it not wrong]
 comments: true
 image:
   feature: lord-architect.jpg
@@ -13,7 +13,7 @@ Below is a copy and paste job from a project I worked on where we wanted to get 
 
 # 0015 - API Design Principles
 
-###### Author(s) - Rory Hanratty, Will Hamill
+###### Author(s) - Rory Hanratty, [Will Hamill](http://www.willhamill.com)
 
 ``` 
 Status: In Progress
