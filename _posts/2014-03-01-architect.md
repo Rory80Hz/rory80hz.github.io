@@ -10,7 +10,7 @@ image:
 ---
 ## Context / Full Disclosure
 
-Straight up, I spent a significant amount of time in my early years 'doing stuff', the term Architect wasn't even on my radar, the first time I encountered it was maybe 8 or 9 years a go, and i distinctly remember thinking at the time that it sounded a bit "weird".
+Straight up, I spent a significant amount of time in my early years 'doing stuff', the term Architect wasn't even on my radar, the first time I encountered it was maybe 8 or 9 years ago, and I distinctly remember thinking at the time that it sounded a bit "weird".
 <br/>
 <br/>
 By some miracle, in my early career, I managed to be involved in working on projects or teams where it was people that  "do things" with someone responsible guiding it, not separate from the team, but working alongside and steering the ship.
