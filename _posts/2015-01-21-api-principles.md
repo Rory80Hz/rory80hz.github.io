@@ -9,7 +9,7 @@ image:
   feature: api-principles.jpg
 ---
 
-Below is a copy and paste job from a project I worked on where we wanted to get across some guiding principles for everyone. The format is based on the Open Design Proposals idea from Austin Bingham, that I got us to adopt on the project. More on that some other time.
+Below is a copy and paste job from a project I worked on where we wanted to get across some guiding principles for everyone. The format is based on the Open Design Proposals idea from Austin Bingham, that I got us to adopt on the project. More on that some other time. It was put together by myself and the most excellent [Will Hamill](http://www.willhamill.com), most likely the bits you think are good are Will's work.
 
 # 0015 - API Design Principles
 
