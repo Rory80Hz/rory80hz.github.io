@@ -6,10 +6,6 @@ modified: 2013-05-31
 tags: [software architecture, architect, noscope]
 comments: true
 ---
-
-# "ARCHITECT"
-___
-
 ## Context / Full Disclosure
 
 Straight up, I spent a significant amount of time in my early years 'doing stuff', the term Architect wasn't even on my radar, the first time I encountered it was maybe 8 or 9 years a go, and i distinctly remember thinking at the time that it sounded a bit "weird".
@@ -28,7 +24,7 @@ Interestingly, this is the sort of thing that is reflected on building sites, wh
 
 A fine question...to answer that though, you need to ask what is Architecture...
 
-Well, it's the stuff in your implementation that isn't easy to change...
+> Well, it's the stuff in your implementation that isn't easy to change...
 
 Ok, so given the above definition, what is an Architect...
 
@@ -52,6 +48,8 @@ Because such a beast does not exist, the decision making part is, though, import
 
 Ok, so i've suggested what an architect isn't, and hinted at what they are, so let me present my view.
 
+## My View
+
 An Architect is someone with sufficient experience to make decisions and guide others in the right direction, balancing dogmatism and pragmatism, know that they don't know everything, understand that they have more they can learn, and above all else understand how they can use others experience and knowledge to guide their decision making.
 
 What they *do* is guide teams, leverage their experience to harness the expertise of the other people they work with to adapt and improve a solution, and understand, and communicate the wider context in which problems are being solved, and how best to solve them.
@@ -62,4 +60,4 @@ For me, the ability to do this diminishes the further away you are from the peop
 
 Just because we use the term Architecture for the bits of the system that are difficult to change, and, of itself, it is a good word to describe that, it does not mean that one person is the Architect, because really, the role you are fulfilling is way more than that.
 
-So, really, Architect is a shit word for that role...not sure quite what a good word for it is though.
+So, really, Architect is a shit word for that role...not sure quite what a good word for the role is though.
