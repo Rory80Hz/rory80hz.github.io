@@ -27,3 +27,4 @@ Jennifer is an economist and general all round mathematical person. She has expe
 * Gaming.
 * Nonsense.
 * Space.
+* Lego.
