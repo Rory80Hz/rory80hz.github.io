@@ -9,13 +9,17 @@ comments: true
 ## Context / Full Disclosure
 
 Straight up, I spent a significant amount of time in my early years 'doing stuff', the term Architect wasn't even on my radar, the first time I encountered it was maybe 8 or 9 years a go, and i distinctly remember thinking at the time that it sounded a bit "weird".
-
+//
+//
 By some miracle, in my early career, I managed to be involved in working on projects or teams where it was people that  "do things" with someone responsible guiding it, not separate from the team, but working alongside and steering the ship.
-
+//
+//
 Since then, I have encountered it more and more in the wild, and my original opinion hasn't changed.
-
+//
+//
 Usually, from what I could see, it was a means to implement a hierarchal organisational structure around people that do things. The apparent side effect of this was to take people away from doing things, and move them more towards thinking about doing things, and telling other people that think about thinking about doing things why they should do them and for how long and how much of the stuff they were thinking about doing they should do, as well as start making them think about how good other people that are doing things are doing and how they could be doing them better. All of this without actually *doing* anything in terms of building things.
-
+//
+//
 The other thing it engendered was a sense in those below them on the ladder, that they were basically less empowered than those on the levels above, and in the worst cases found, in the instances where the level above was entirely manned by "ENTARPRAIZ ARCHITEKTS", people were actively demotivated, and unwilling to try to do things better, because, the tower commands it.
 
 Interestingly, this is the sort of thing that is reflected on building sites, where the guys carrying the hods, laying cement and generally getting on with constructing things, view the hand waving, plan wielding, Le Chameau wellington boot wearing Architect with suspicion, and in the cases where plan does not meet reality, hostility.
