@@ -1,3 +1,12 @@
+---
+layout: post
+title: Architect
+excerpt: "What the hell is an architect anyway?"
+modified: 2013-05-31
+tags: [software architecture, architect, noscope]
+comments: true
+---
+
 # "ARCHITECT"
 ___
 
