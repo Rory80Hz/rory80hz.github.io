@@ -24,9 +24,9 @@ The other thing it engendered was a sense in those below them on the ladder, tha
 <br/>
 <br/>
 Interestingly, this is the sort of thing that is reflected on building sites, where the guys carrying the hods, laying cement and generally getting on with constructing things, view the hand waving, plan wielding, Le Chameau wellington boot wearing Architect with suspicion, and in the cases where plan does not meet reality, hostility.
-<br/>
-<br/>
+
 ## What is an Architect then?
+
 A fine question...to answer that though, you need to ask what is Architecture...
 <br/>
 <br/>
@@ -66,6 +66,7 @@ Because such a beast does not exist, the decision making part is, though, import
 Ok, so i've suggested what an architect isn't, and hinted at what they are, so let me present my view.
 
 ## My View
+
 An Architect is someone with sufficient experience to make decisions and guide others in the right direction, balancing dogmatism and pragmatism, know that they don't know everything, understand that they have more they can learn, and above all else understand how they can use others experience and knowledge to guide their decision making.
 <br/>
 <br/>
