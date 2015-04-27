@@ -6,7 +6,7 @@ modified: 2013-03-01
 tags: [software architecture, architect, api design, principles, do it not wrong]
 comments: true
 image:
-  feature: lord-architect.jpg
+  feature: api-principles.jpg
 ---
 
 Below is a copy and paste job from a project I worked on where we wanted to get across some guiding principles for everyone. The format is based on the Open Design Proposals idea from Austin Bingham, that I got us to adopt on the project. More on that some other time.
