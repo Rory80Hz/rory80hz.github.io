@@ -30,7 +30,9 @@ Interestingly, this is the sort of thing that is reflected on building sites, wh
 A fine question...to answer that though, you need to ask what is Architecture...
 <br/>
 <br/>
+
 > Well, it's the stuff in your implementation that isn't easy to change...
+
 <br/>
 <br/>
 Ok, so given the above definition, what is an Architect...
