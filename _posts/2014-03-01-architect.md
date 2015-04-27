@@ -2,9 +2,11 @@
 layout: post
 title: Architect
 excerpt: "What the hell is an architect anyway?"
-modified: 2013-05-31
+modified: 2013-03-01
 tags: [software architecture, architect, noscope]
 comments: true
+image:
+  feature: lord-architect.jpg
 ---
 ## Context / Full Disclosure
 
