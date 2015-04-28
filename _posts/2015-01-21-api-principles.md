@@ -110,7 +110,7 @@ HTTP verbs, or methods, should be used in compliance with their definitions unde
 #### Good examples
 No values in keys: 
 
-```json
+```JSON
 	"Organisations": [
 		{
 			"id": "125",
@@ -125,7 +125,7 @@ No values in keys:
 #### Bad examples
 Values in keys:
 
-```json
+```JSON
 	"tags": [
 		{"125": "Farms Ltd"}, 
 		{"834": "Pigs and Chickens"}
@@ -172,7 +172,7 @@ limit=25 means, ‘return a maximum of 25 records’
 Ensure that paging/limiting parameters are consistently named across the API, e.g. "limit" vs "pageSize", "offset" vs "startAt".
 Information about record limits and total available count should also be included in the response. Example:
 
-```json
+```JSON
 {
     "metadata": {
         "resultset": {
@@ -191,7 +191,7 @@ Information about record limits and total available count should also be include
 	GET https://example.org/api/person/20/summary
 
 #### Response
-```json
+```JSON
 {
 	"_data": {
 		"lastName": "Dreyfus",
