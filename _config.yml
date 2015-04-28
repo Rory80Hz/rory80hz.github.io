@@ -17,6 +17,7 @@ gems:
   - jekyll-sitemap
 
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
@@ -41,7 +42,7 @@ owner:
     ad-slot: 
   bing-verify: 
   github: rory80hz
-  stackoverflow: http://stackoverflow.com/users/4009245/rory-hanratty
+  stackoverflow: 4009245/rory-hanratty
   linkedin: rory-hanratty
   xing: #username
   instagram: rudimentaryrec

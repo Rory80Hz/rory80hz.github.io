@@ -15,7 +15,7 @@ Below is a copy and paste job from a project I worked on where we wanted to get 
 
 ###### Author(s) - Rory Hanratty, [Will Hamill](http://www.willhamill.com)
 
-``` 
+```
 Status: In Progress
 ```
 
@@ -34,6 +34,7 @@ This is not a suggestion that we go full tilt for auto-generated clients from ex
 * Part 8. [References to other peoples ideas](#References)
 
 ## Part 1. Pragmatic REST
+
 ######  <a name="PragmaticREST">There is no one true way, but there are definitely wrong ways.</a>
 
 These guidelines aim to support a truly RESTful API. They are subject to refinement as we identify which paradigms are most suitable and feasible for our situation.
@@ -82,13 +83,13 @@ http://www.example.org/api/magazines/2011/desc
 ### Content types
 Where supported, content which can be returned in multiple types should be negotiated using the 'Accept' HTTP header, e.g.
 
-    GET http://example.org/api/magazine/1234
-    Accept: text/json
+> GET http://example.org/api/magazine/1234
+> Accept: text/json
 
 Should return a JSON representation of the resource.
 
-    GET http://example.org/api/magazine/1234
-    Accept: application/xml
+> GET http://example.org/api/magazine/1234
+> Accept: application/xml
 
 Should return an XML representation of the resource.
 
@@ -185,6 +186,7 @@ Information about record limits and total available count should also be include
 ```
 
 ### Request & Response Example
+
 #### Request
 	GET https://example.org/api/person/20/summary
 
@@ -263,6 +265,7 @@ Information about record limits and total available count should also be include
 ```
 
 ## Part 2. Building APIs
+
 ###### <a name="Building">Pragmatism in practice aka µ-services</a>
 
 ### Keep it well weapon you banana
@@ -303,14 +306,14 @@ Ah naming, personally I would have preferred if we adopted awesome codenames for
 
 Instead, use sensible descriptive names for a service, don't be generic, because it hides intent. Again, if you are doing one job, make it clear what that job is.
 
-Also, lets stop calling everything capd-whatever, because it keeps autocorrecting to cape- and also, the name doesn't make any sense anymore. _This one is project specific but the idea holds, dont use shitty prefixes__
+Also, lets stop calling everything poc-whatever, because it keeps autocorrecting to pod- and also, the name doesn't make any sense anymore. _This one is project specific but the idea holds, dont use shitty prefixes_
 
 ### Documentation
 Nothing says "this is what is going on" like a good set of tests, and the code itself, but sometimes other pesky people want to know what a service does. 
 
 Also, advertising what it is you do to the outside world is not so terrible. Again, it raises the spectre of WS* type madness, but we don't need to go that far.
 
-To that end, all resources should be documented using a set of annotations defined in the (INSERT LINK HERE) package. More info on this (AT SOME PLACE).
+To that end, all resources should be documented using a set of annotations which can be used to auto generate the documentation. [Swagger](http://swagger.io/) is not a terrible start.
 
 ## Part 3. Testing
 
@@ -322,6 +325,7 @@ Also, if you go full TDD it can help drive your thinking towards building a piec
 
 
 ## Part 4. Health checks
+
 ######  <a name="Healthcheck">Sometimes a burning wreck is not the best way to find out its broken</a>
 
 So we use Dropwizard. It provides a very nice way to perform health checks. These checks should basically test any external resources it uses (think DB connections, other services, file based IO).
@@ -335,7 +339,9 @@ PRO-TIP: The answer is not for a customer to ring up the help-desk to say they c
 Set up a service that allows a monitoring platform to ask it how it is getting on, and allowing that monitoring platform, via automated alerts, to tell your support team things aren't so cool is better, simple right?
 
 ## Part 5. Dogfooding
+
 ###### <a name="Dogfooding">Eat your own dog food aka build it once</a>
+
 ##### Also known as 'drinking your own champagne'
 
 So, lets say for example, we have built a service that lets us deal with customers and their delicious data. 
@@ -357,6 +363,7 @@ Eating our own dog food encourages us think a bit more about service boundaries,
 It also means that we can have one service do one well understood job well. It owns its own schema, and it's own boundaries, it makes it less fragile, and more open to change. In a word agile.
 
 ## Part 6. Deploy all the things
+
 ###### <a name="WalkingSkeleton">The amazing walking skeleton</a>
 
 Why wait until the end of development to see if this awesome new thing actually works when you put it on a machine that doesn't have the amazing resilience of your own personal ironclad blessed by the Gods machine.
@@ -371,6 +378,7 @@ In fact go a bit further, include a basic terrible version of your UI that invok
 * [Gojko Adzic - Skelton on Crutches](http://gojko.net/2014/06/09/forget-the-walking-skeleton-put-it-on-crutches/)
 
 ## Part 7. Orchestration
+
 ###### <a name="Orchestration">Pulling the strings</a>
 
 Again, this is particular to this project, we are in the happy position of building the customer facing components.
@@ -384,6 +392,7 @@ It's the classic don't call us we'll call you thing...except not a job interview
 You get the idea. We accept data from the Customer, everywhere else we ask for it and act on the response.
 
 ## Part 8. References to other peoples ideas
+
 ###### <a name="References">There are no new ideas</a>
 
 The above is in no small part derived some some other peoples excellent ideas.
