@@ -292,6 +292,7 @@ So it is a collection of things that are good at their job, and it gives you swe
 Make sure you use the latest version of things, and use Dropwizard modules to do stuff, not spring.
 
 ### APIs and Clients
+
 In the context of building our services, APIs are packages that contain common request and response objects that can be leveraged by both the Resource implementations, and the reference clients. 
 
 As mentioned we are all about java based things so this makes sense for us, as we get the benefits of having the people that build the service, provide a nice client for others to use, that has also been used for testing the service. Such collaborate, so dog food, much amaze.
