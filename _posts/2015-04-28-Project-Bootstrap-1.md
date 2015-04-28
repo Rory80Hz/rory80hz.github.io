@@ -9,7 +9,7 @@ comments: true
 image:
   feature: bootstrap-1.jpg
 ---
-This is the first part of a series of shared wisdom from [Kyle Thompson](http://kylethompson.co.uk/), [Rob Lazzurs](http://blog.lazzurs.net/) and I, based on our shared experience over the years of working on projects, and our most recent adventure together.
+This is the first part of a series of shared wisdom from [Kyle Thompson](http://kylethompson.co.uk/), [Rob Lazzurs](http://blog.lazzurs.net/) and I, based on our shared experience over the years of working on projects, and our most recent adventures together.
 
 We have all worked on various flavours of projects, from Prince 2 captained waterslides to various degrees of success and failure to Agile™®© and agile projects, again to varying degrees of success and failure.
 
@@ -29,3 +29,19 @@ This is a big part of working in an agile fashion, as a tech person, you are not
 Another important aspect for consideration is where you work. Trust us, we have worked in some truly awful places. I once had the privilege of using a desk *pedestal* as a working location for a week in a highly secured building and elsewhere, found that if you spoke above a whisper you got "sssshed" by some reports manager.  Kyle Location, Rob Location.
 
 There are a number of aspects to where you work that are really important to allowing a cross functional team to really work well together. We'll talk about some of our ideas.
+
+#### People - Who does what when?
+As of today, we tend to need people to work on things. Sadly, despite our best efforts we haven't quite gotten to the automated clone workforce we were promised in an episode of Tomorrows World. That being the case
+
+#### From Idea to Value
+Building a superb digital service isn't just about the deadly technology you use, in fact that is a small part of the problem. 
+
+How do you communicate your decisions around how to meet the User Need. 
+
+How do you get from an idea for some user value to getting that built and ready for action. Also, crucially, how do you verify what you have done is a good idea or not.
+
+#### Pipeline - Works on my machine...
+Ah DevOps, so many have tried, many have failed, others have butchered the idea beyond recognition into Silos of ultimate rubbish. There are right and wrong ways to go from really awesome developer machine based demo to a real live scary production system.
+
+#### Management
+How best do you run these projects? We've seen some pretty weird stuff in our time. Waterfall inside waterfalls, agile projects where that meant they used Rally for functional requirements and that was it, chaos based crisis management projects and everything else in between.
