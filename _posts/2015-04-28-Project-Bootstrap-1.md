@@ -15,7 +15,7 @@ We have all worked on various flavours of projects, from Prince 2 piloted waters
 <br/>
 We are all three of us a combination of developer and [''architect"](http://blog.pengin.pro/architect/). With Rob bringing an Ops flavour to proceedings.
 <br/>
-A little while back we decided to get together  to discuss the things that worked and totally didn't on projects we have been involved in, and ran through some of the common mistakes, and victories we've seen over the years.
+A little while back we decided to get together  to discuss the things that worked and totally didn't on projects we have been involved in, and ran through some of the common mistakes, and victories we've seen over the years, to try in some way to produce our list of **MUST**, **SHOULD** and **COULD** for projects.
 <br/>
 *Disclaimer: We are strong believers in User Need based requirements, evidence based decision making, and agility, so this series is firmly aimed in this direction*
 
