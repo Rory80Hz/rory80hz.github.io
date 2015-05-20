@@ -22,7 +22,7 @@ Thankfully, I've developed a good habit to counter this by not listening to the 
 ## The Setup
 I'm a lo-fi sort of person for the most part when it comes to communication, so the setup for this is very simple.
 
-It involves....paper, and a pen.
+It involves paper, and a pen.
 
 ![Setup](../images/whowhatwhen/setup.jpg)
 
