@@ -23,13 +23,13 @@ Thankfully, I've developed a good habit to counter this by not listening to the 
 I'm a lo-fi sort of person for the most part when it comes to communication, so the setup for this is very simple.
 
 It involves paper, and a pen.
-<br/>
+<br/><br/>
 ![Setup](../images/whowhatwhen/setup.jpg)
-<br/>
+<br/><br/>
 Very simply, on the left we have a user that needs something, on the right, we have the user having got the thing, and is super pleased (mostly).
 <br/>
-Below the line the team were asked to mark activities that they saw happening to get from User Need to User Value, and above the line indicated who it was that was involved in doing it.
-<br/>
+Below the line the team were asked to mark activities that they saw happening to get from User Need to User Value and above the line indicated who it was that was involved in doing it.
+<br/><br/>
 ![A Vague example](../images/whowhatwhen/example.jpg)
 
 ## The point here being?
@@ -50,4 +50,5 @@ I can strongly recommend giving this a go.
 
 ### Finally
 It would be bad form for me to not include my own response to this...so here you go:
+<br/><br/>
 ![Clearly I have issues](../images/whowhatwhen/mine.jpg)
