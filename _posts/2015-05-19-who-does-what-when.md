@@ -20,9 +20,7 @@ As one of the 'longer in the tooth' members of the team, I find I often make ass
 Thankfully, I've developed a good habit to counter this by not listening to the dark recesses of my brain, and challenge my own assumptions as often as I can. To that end, with the new team in place, we conducted an exercise to see just where our understanding of how we work as a team is. Whilst I won't share all of the detail of the specific results, what I can do is provide an example of the exercise, and what it was useful for achieving.
 
 ## The Setup
-I'm a lo-fi sort of person for the most part when it comes to communication, so the setup for this is very simple.
-
-It involves paper, and a pen.
+I'm a lo-fi sort of person for the most part when it comes to communication, so the setup for this is very simple. It involves paper, and a pen.
 <br/><br/>
 ![Setup](../images/whowhatwhen/setup.jpg)
 <br/><br/>
