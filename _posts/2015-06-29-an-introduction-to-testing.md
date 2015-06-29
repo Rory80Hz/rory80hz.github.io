@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Introduction to testing
-excerpt: "Why even bother testing software?"
+excerpt: "Who, What and Why when it comes to Software Testing?"
 modified: 2015-06-29
 tags: [agile,software development,testing,team]
 comments: true
