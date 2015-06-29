@@ -65,7 +65,7 @@ Maybe not. Not sure about you, but personally, i'll take a plane that gets there
 ![Test Whut?](../images/intrototesting/8-test-pyramid.jpg)
 <br/>
 <br/>
-So, they guys will no doubt go over this, you go from fine grained tests all the way up to pretty loose manual exploratory testing. You need this for a lot of reasons. Automated testing so you can deploy continuously...but that is a whole other topic. 
+So, the guys will no doubt go over this, you go from fine grained tests all the way up to pretty loose manual exploratory testing. You need this for a lot of reasons. Automated testing so you can deploy continuously...but that is a whole other topic. 
 
 ### 9. The other Pyramid
 ![Proove What?](../images/intrototesting/9-pyramid-2.jpg)
