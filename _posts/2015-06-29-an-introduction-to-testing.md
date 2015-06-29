@@ -17,6 +17,8 @@ Status: Draft, WIP, References to be added, currently list of points to cover.
 ## Testing. Such good times.
 So, i've recently been asked to talk to some trainee software engineers about testing, the guys running the course they are on are doing an excellent job covering the hows of testing, so they asked me to give a bit of an idiots guide (i.e. something I understand) to the WHY of testing.
 
+This is the outline of my thought process for putting together a presentation on the subject.
+
 I'll rattle through my thoughts on the subject based on the crude outline of what I'm going to talk about...
 
 ### 1. Testing
