@@ -2,7 +2,7 @@
 layout: post
 title: Architect
 excerpt: "What the hell is an architect anyway?"
-modified: 2013-03-01
+modified: 2015-06-29
 tags: [software architecture, architect, noscope]
 comments: true
 image:
@@ -87,3 +87,6 @@ Just because we use the term Architecture for the bits of the system that are di
 <br/>
 <br/>
 So, really, Architect is a shit word for that role...not sure quite what a good word for the role is though.
+<br/>
+<br/>
+* Addendum, I'm going for ArchiREKT for now.
