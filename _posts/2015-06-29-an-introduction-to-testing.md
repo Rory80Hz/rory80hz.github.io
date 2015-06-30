@@ -18,12 +18,12 @@ So, i've recently been asked to talk to some trainee software engineers about te
 
 ## Download the Presentation
 [Direct Download of the Powerpoint](https://www.dropbox.com/s/jpl4wlvh8t0u4ph/testing-intro.pptx?dl=0)
-
+<br/><br/>
 If you feel like delivering this yourself for some reason, go right ahead. Drop me a line if you want help.
 
 ![Creative Comons - Attribution](../images/cc-attribution.png)
 
-Attribution (BY)	Licensees may copy, distribute, display and perform the work and make derivative works based on it only if they give the author or licensor the credits in the manner specified by these.
+[Creative Commons - Attribution](https://creativecommons.org/licenses/by/2.0/uk/)
 
 ## Putting it together
 This is the outline of my thought process for putting together a presentation on the subject.
