@@ -10,13 +10,15 @@ image:
   feature: intrototesting/testing.jpg
 ---
 
-```
-Status: Draft, WIP, References to be added, currently list of points to cover.
-```
-
 ## Testing. Such good times.
 So, i've recently been asked to talk to some trainee software engineers about testing, the guys running the course they are on are doing an excellent job covering the hows of testing, so they asked me to give a bit of an idiots guide (i.e. something I understand) to the WHY of testing.
 
+Here is the presentation itself!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywBg_8ptz8g" frameborder="0" allowfullscreen></iframe>
+
+
+## Putting it together
 This is the outline of my thought process for putting together a presentation on the subject.
 
 See below for the outline of the talk before it existed...
